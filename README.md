@@ -23,6 +23,9 @@ A simple, interactive forum application built with **React** and **Node.js**. Us
   - Express.js
   - Prisma (postgresql db)
   - JWT (JSON Web Tokens) for authentication
+ 
+  - **Db
+    - establish connection on PostreSql db using pgAdmin or terminal on port 5432
 
 ## Installation
 
